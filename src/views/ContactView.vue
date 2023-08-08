@@ -6,7 +6,7 @@
 
 <style>
 @media (min-width: 1024px) {
-  .about {
+  .contact {
     min-height: 100vh;
     display: flex;
     align-items: center;
